@@ -4,6 +4,7 @@ Take a look at the Jupyter notebook: [sql-fundamentals-cia-factbook.ipynb](https
 * aggregation functions
 * multiple conditionals
 * inline arithmetic operations
+* subqueries
 
 ## About Dataquest
 Dataquest ([dataquest.io](https://www.dataquest.io/home)) is an online code academy which offers educational content relating to Data Science.
